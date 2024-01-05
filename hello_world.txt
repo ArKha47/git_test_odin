@@ -1,3 +1,5 @@
 very cool text added
 
 this on a new line?
+
+cool
